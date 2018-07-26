@@ -321,6 +321,10 @@ iframe {
   color: #999;
   font-weight: normal;
 }
+.experience .item .year {
+  color: #999;
+  font-weight: normal;
+}
 /* Git section */
 .github-graph {
   margin-bottom: 30px;
@@ -547,6 +551,9 @@ iframe {
 
 .trophy {
   text-align: justify;
+}
+.inline {
+  display: inline;
 }
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
